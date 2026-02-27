@@ -2,3 +2,5 @@ Day 1:
 - Installed Git
 - Understood version control
 - Configured global user settings
+
+- Learned difference between Git and GitHub
